@@ -1,0 +1,2 @@
+b0856af0847e3dfe664eebf256efb0207ec2a1a339807a7c7f3b13aa79b9cef0  IPRO-AI-Studio-0.4.2.dmg
+a67875c6b035c9c726e74c4970da7b3e7ed808bbe3009ccd37e374edac5a59dd  IPRO-AI-Studio-0.4.2-windows-x64.zip
